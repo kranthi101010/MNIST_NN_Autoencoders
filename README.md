@@ -61,4 +61,4 @@ jupyter notebook MNIST_NN_Autoencoders.ipynb
 2. Sparse autoencoders provide better features than naive autoencoders.
 3. Batch normalization and proper weight initialization improve convergence and accuracy.
 
-![model Accuracy](images/Model_performance.png)
+![model Accuracy](Images/Model_performance.png)
