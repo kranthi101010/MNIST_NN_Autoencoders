@@ -50,7 +50,7 @@ cd MNIST_NN_Autoencoders
 ```
 2. Run the Jupyter Notebook
 ```bash
-jupyter notebook DLS_Ass_1_Jboppana.ipynb
+jupyter notebook MNIST_NN_Autoencoders.ipynb
 ```
 3. Follow the notebook to train and evaluate models.
 
