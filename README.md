@@ -40,3 +40,25 @@ Ensure you have the following libraries installed before running the project:
 
 ```bash
 pip install tensorflow numpy matplotlib
+```
+---
+## 🚀 How to Run the Project
+1. Clone the Repository:
+```bash
+git clone https://github.com/your-username/MNIST_NN_Autoencoders.git
+cd MNIST_NN_Autoencoders
+```
+2. Run the Jupyter Notebook
+```bash
+jupyter notebook DLS_Ass_1_Jboppana.ipynb
+```
+3. Follow the notebook to train and evaluate models.
+
+---
+
+## 📜 Results
+1. The project demonstrates how different neural networks and autoencoder-based feature learning techniques impact classification accuracy.
+2. Sparse autoencoders provide better features than naive autoencoders.
+3. Batch normalization and proper weight initialization improve convergence and accuracy.
+
+![model Accuracy](images/Model_performance.png)
