@@ -1,5 +1,5 @@
 # MNIST_NN_Autoencoders
-🚀 **Exploring Neural Networks and Autoencoders for MNIST Classification**
+🚀 **Exploring Neural Networks and Autoencoders for MNIST Classification_new branch**
 
 ## 📌 Overview
 This project explores different neural network architectures and autoencoders for handwritten digit classification using the MNIST dataset. The goal is to analyze the impact of model complexity, feature learning via autoencoders, and the effect of batch normalization and weight initialization on model performance.
